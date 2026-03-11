@@ -1,0 +1,28 @@
+name: gitartwork from a contribution graph
+
+on: 
+  push:
+  schedule:
+    - cron: "0 0 * * 0"
+
+jobs:
+  build:
+    name: Make gitartwork SVG
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      
+      - uses: mukhesh-7/gitartwork@v1
+        with:
+          # Use this username's contribution graph  
+          user_name: mukhesh-7
+          # Text on contribution graph 
+          text: MUKHESH
+          
+      - uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: 'Update gitartwork'
+          file_pattern: gitartwork.svg
+          skip_fetch: true

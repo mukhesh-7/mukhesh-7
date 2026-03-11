@@ -212,6 +212,10 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mukhesh-7&theme=github_dark"/>
 </p>
 
+<p align="center">
+  <img src="https://github.com/mukhesh-7/mukhesh-7/raw/main/gitartwork.svg" alt="Git Artwork" width="100%">
+</p>
+
 ---
 
 ## 🎵 Spotify
