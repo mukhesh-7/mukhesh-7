@@ -14,7 +14,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       
-      - uses: mukhesh-7/gitartwork@v1
+      - uses: jasineri/gitartwork@v1
         with:
           # Use this username's contribution graph  
           user_name: mukhesh-7
