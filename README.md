@@ -1,5 +1,5 @@
 <!-- Matrix Background Animation -->
-[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc)
+<!-- [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) -->
 
 <!-- Typing Greeting
 <p align="center">
@@ -12,7 +12,7 @@
 
 <!-- Hero Banner / Intro GIF -->
 <div align="center">
-<img src="https://i.pinimg.com/originals/a2/2f/94/a22f94de8558e615eae70781f82fa5ec.gif" align="center" height="400" width="400" />
+<img src="https://i.pinimg.com/originals/a2/2f/94/a22f94de8558e615eae70781f82fa5ec.gif" align="center" height="800" width="800" />
 </div>
 
 <br/>
@@ -73,8 +73,11 @@
 
 <h1 align="left">🛠 Language and Tools</h1>
 
-<p align='center'>
+<!-- <p align='center'>
 <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img>
+</p> -->
+<p align='center'>
+<img src="https://camo.githubusercontent.com/36b0eb9a5d8a42bcee9d3d0fbd28a8e1d0a0ff0a6a843c8b5abb91eab7e34ffa/68747470733a2f2f63646e332e656d6f6a692e67672f656d6f6a69732f313236312d6861636b6572626f6e676f6361742e676966" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen style="background: transparent; background-color: transparent;"></img>
 </p>
 
 <p align="center">
@@ -237,7 +240,7 @@
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=mukhesh-7&&style=flat-square" align="center" />
+  <img src="https://komarev.com/ghpvc/?username=mukhesh-7&&style=plastic" align="center" />
 </div>
 
 <br/>
