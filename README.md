@@ -156,7 +156,7 @@
   <a href="https://nodejs.org/" target="_blank"><img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>
   <a href="https://www.python.org/" target="_blank"><img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>
   <a href="https://github.com/" target="_blank"><img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 5px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/960px-Bash_Logo_Colored.svg.png" alt="Bash" height="10" /></a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 5px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/960px-Bash_Logo_Colored.svg.png" alt="Bash" height="50" /></a>
   <a href="https://www.java.com/" target="_blank"><img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>
   <a href="https://pytorch.org/" target="_blank"><img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="PyTorch" height="50" /></a>
   <a href="https://www.tensorflow.org/" target="_blank"><img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="50" /></a>
@@ -175,7 +175,7 @@
   <a href="https://www.python.org/" target="_blank"><img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>
   <a href="https://www.docker.com/" target="_blank"><img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>
   <a href="https://www.linux.org/" target="_blank"><img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>
-  <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>
+  <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 5px" src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/aws.png" alt="AWS" height="50" /></a>
   <a href="https://cloud.google.com/" target="_blank"><img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" /></a>
   <a href="https://flutter.dev/" target="_blank"><img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="50" /></a>
 </div>
