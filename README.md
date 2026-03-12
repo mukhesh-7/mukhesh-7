@@ -12,7 +12,7 @@
 
 <!-- Hero Banner / Intro GIF -->
 <div align="center">
-<img src="https://i.pinimg.com/originals/a2/2f/94/a22f94de8558e615eae70781f82fa5ec.gif" align="center" height="800" width="800" />
+<img src="https://i.pinimg.com/originals/a2/2f/94/a22f94de8558e615eae70781f82fa5ec.gif" align="center" height="400" width="800" />
 </div>
 
 <br/>
@@ -36,8 +36,8 @@
 
 ## 🧑‍💻 About Me
 
-- 🔭 I'm currently working on [CrazyMonk](https://github.com/mukhesh-7/crazy_monk)
-- 🌱 I'm currently learning DevOps and Security related things
+- 🔭 Currently working on [CrazyMonk](https://github.com/mukhesh-7/crazy_monk)
+- 🌱 Exploring deep into DevOps and Security related things
 - ❓ Ask me about anything related to AI and its related stuffs
 - ⚡ Fun fact: I prefer Documentation over Claude
 
@@ -189,7 +189,7 @@
 
 ---
 
-### 💬 Random Dev Quote
+### 💬 Dev Quote
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
