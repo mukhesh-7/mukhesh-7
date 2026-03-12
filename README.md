@@ -158,7 +158,7 @@
   <a href="https://github.com/" target="_blank"><img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>
   <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 5px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/960px-Bash_Logo_Colored.svg.png" alt="Bash" height="10" /></a>
   <a href="https://www.java.com/" target="_blank"><img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>
-  <a href="https://pytorch.org/" target="_blank"><img style="margin: 5px" src="https://icon.icepanel.io/Technology/svg/PyTorch.svg" alt="PyTorch" height="50" /></a>
+  <a href="https://pytorch.org/" target="_blank"><img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="PyTorch" height="50" /></a>
   <a href="https://www.tensorflow.org/" target="_blank"><img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="50" /></a>
 </div>
 
