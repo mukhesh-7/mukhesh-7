@@ -12,7 +12,7 @@
 
 <!-- Hero Banner / Intro GIF -->
 <div align="center">
-<img src="https://i.pinimg.com/originals/a2/2f/94/a22f94de8558e615eae70781f82fa5ec.gif" align="center" height="400" width="800" />
+<img src="https://i.pinimg.com/originals/a2/2f/94/a22f94de8558e615eae70781f82fa5ec.gif" align="center" height="400" width="700" />
 </div>
 
 <br/>
