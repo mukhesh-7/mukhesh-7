@@ -12,7 +12,7 @@
 
 <!-- Hero Banner / Intro GIF -->
 <div align="center">
-<img src="https://i.pinimg.com/originals/a2/2f/94/a22f94de8558e615eae70781f82fa5ec.gif" align="center" height="200" width="400" />
+<img src="https://i.pinimg.com/originals/a2/2f/94/a22f94de8558e615eae70781f82fa5ec.gif" align="center" height="400" width="400" />
 </div>
 
 <br/>
@@ -21,9 +21,9 @@
 <h3 align="center">I'm Arumukhesh, a passionate Developer from India 🚀</h3>
 
 <!-- Typing Animation with Roles -->
-<p align="center">
+<p align="center ">
   <a href="https://github.com/mukhesh-7">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Full%20Stack%20Developer;AI%20%26%20Linux%20Enthusiast;Security%20Explorer;&font=Press+Start+2P&center=true&width=1000&height=120&color=58a6ff&vCenter=true&size=45">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Full%20Stack%20Developer;AI%20%26%20Linux%20Enthusiast;Security%20Explorer;&font=Press+Start+2P&center=true&width=1000&height=100&color=58a6ff&vCenter=true&size=45">
   </a>
 </p>
 
@@ -82,7 +82,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
   </a>
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="nextjs" width="40" height="40"/>
+    <img src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="nextjs" width="40" height="40"/>
   </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
@@ -120,12 +120,6 @@
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
   </a>
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/>
-  </a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
-  </a>
 </p>
 
 ---
@@ -161,17 +155,16 @@
   <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>
   <a href="https://nodejs.org/" target="_blank"><img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>
   <a href="https://www.python.org/" target="_blank"><img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>
-  <a href="https://expressjs.com/" target="_blank"><img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>
   <a href="https://github.com/" target="_blank"><img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 5px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/960px-Bash_Logo_Colored.svg.png" alt="Bash" height="10" /></a>
   <a href="https://www.java.com/" target="_blank"><img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>
-  <a href="https://flask.palletsprojects.com/" target="_blank"><img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="50" /></a>
+  <a href="https://pytorch.org/" target="_blank"><img style="margin: 5px" src="https://icon.icepanel.io/Technology/svg/PyTorch.svg" alt="PyTorch" height="50" /></a>
   <a href="https://www.tensorflow.org/" target="_blank"><img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="50" /></a>
 </div>
 
 </div>
 
-<!-- DevOps & Tools -->
+<!-- Languages & Tools -->
 <div>
 
 ### Languages & Tools
